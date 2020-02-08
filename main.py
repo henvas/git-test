@@ -9,4 +9,5 @@ yy to copy
 p to paste
 u to undo
 ctrl+r to redo
+text
 '''
